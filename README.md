@@ -1,4 +1,4 @@
-# artistica-world
+# Artistica-world
 # Apr 2020 – Jun 2020
 
 Project description : Artistica World is artisitic work reviewing related website. Where a user can publish their own art-work and can also review other’s art work . This website works under the policy of “one account for everything”. That is , in order to publish or review an art, u have to sign up first.
